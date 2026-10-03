@@ -45,92 +45,133 @@ solutions for real-world problems.
 <table>
 <tr>
 
-<td align="center" width="20%">
+<td align="center" width="20%" valign="top">
 
-<img src="./assets/team/shibashish.jpeg" width="130" height="130" style="border-radius:50%;">
+<img src="./assets/team/shibashish.jpeg" width="130" height="130" alt="Shibashish Sahoo">
 
-### Shibashish Sahoo
+<br>
 
-**Cybersecurity Engineer**
+<b>Shibashish Sahoo</b>
+
+<br>
+
+Cybersecurity Engineer
+
+<br><br>
 
 <a href="https://github.com/ShibashishSahoo">
-GitHub
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github">
 </a>
 
 <br>
 
-<a href="https://www.linkedin.com/in/shibashishsahoo">LinkedIn</a>
+<a href="https://www.linkedin.com/in/shibashishsahoo">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="20%" valign="top">
 
-<img src="./assets/team/rajat.jpg" width="130" height="130" style="border-radius:50%;">
+<img src="./assets/team/rajat.jpg" width="130" height="130" alt="Rajat Kumar Bhoi">
 
-### Rajat Kumar Bhoi
+<br>
 
-**Backend Developer**
+<b>Rajat Kumar Bhoi</b>
+
+<br>
+
+Backend Developer
+
+<br><br>
 
 <a href="https://github.com/rajat8249">
-GitHub
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github">
 </a>
 
 <br>
 
-<a href="https://www.linkedin.com/in/rajat-kumar-bhoi-6142183a4?">LinkedIn</a>
+<a href="https://www.linkedin.com/in/rajat-kumar-bhoi-6142183a4">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="20%" valign="top">
 
-<img src="./assets/team/nilambar.jpeg" width="130" height="130" style="border-radius:50%;">
+<img src="./assets/team/nilambar.jpeg" width="130" height="130" alt="Nilamber Nayak">
 
-### Nilamber Nayak
+<br>
 
-**AI / ML Developer**
+<b>Nilamber Nayak</b>
+
+<br>
+
+AI / ML Developer
+
+<br><br>
 
 <a href="https://github.com/nilambarnayak">
-GitHub
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github">
 </a>
 
 <br>
 
-<a href="https://www.linkedin.com/in/nilambar-nayak-0a56a3309">LinkedIn</a>
+<a href="https://in.linkedin.com/in/nilambar-nayak-0a56a3309">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
 
 </td>
 
+<td align="center" width="20%" valign="top">
 
-<td align="center" width="20%">
+<img src="./assets/team/saumyakanta.jpeg" width="130" height="130" alt="Saumyakanta Swain">
 
-<img src="./assets/team/saumyakanta.jpeg" width="130" height="130" style="border-radius:50%;">
+<br>
 
-### Saumyakant Swain
+<b>Saumyakanta Swain</b>
 
-**Frontend Developer**
+<br>
+
+Frontend Developer
+
+<br><br>
 
 <a href="https://github.com/saumyakant24">
-GitHub
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github">
 </a>
 
 <br>
 
-<a href="https://www.linkedin.com/in/saumya-kant-64539b400">LinkedIn</a>
+<a href="https://www.linkedin.com/in/saumya-kant-64539b400">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="20%" valign="top">
 
-<img src="./assets/team/sneha.jpeg" width="130" height="130" style="border-radius:50%;">
-
-### Sneha Das Adhikari
-
-**Frontend Developer**
-
-<!-- Add Sneha's GitHub URL here -->
+<img src="./assets/team/sneha.jpeg" width="130" height="130" alt="Sneha Das Adhikari">
 
 <br>
 
-<a href="https://www.linkedin.com/in/sneha-das-adhikari-461097386">LinkedIn</a>
+<b>Sneha Das Adhikari</b>
+
+<br>
+
+Frontend Developer
+
+<br><br>
+
+<a href="YOUR_SNEHA_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github">
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/sneha-das-adhikari-461097386">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
 
 </td>
 
