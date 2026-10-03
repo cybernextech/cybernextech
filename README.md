@@ -1,96 +1,134 @@
+<div align="center">
+
 # 🛡️ CyberNex_Tech
 
 ### Defend • Detect • Evolve
 
-Welcome to **CyberNex_Tech** — a technology team focused on building **secure, intelligent, and practical solutions**.
+**Cybersecurity • Artificial Intelligence • Software Development**
 
-We combine **Cybersecurity, Artificial Intelligence, Machine Learning, and Software Development** to solve real-world problems and participate in hackathons, innovation challenges, and open-source projects.
+We are a technology-driven team focused on building secure, intelligent,
+and innovative solutions through cybersecurity, AI/ML, software development,
+and collaborative engineering.
+
+</div>
 
 ---
 
-## 🚀 What We Do
+## 🚀 About Us
 
-- 🔐 Cybersecurity
+**CyberNex_Tech** is a student technology team passionate about:
+
+- 🔐 Cybersecurity & Digital Security
 - 🤖 Artificial Intelligence & Machine Learning
 - 💻 Software Development
-- 🌐 Web & Backend Development
-- 📱 Application Development
-- 🏆 Hackathons & Innovation
-- 🌍 Open Source
+- 🌐 Web & Application Development
+- 🧠 Problem Solving & Innovation
+- 🏆 Hackathons & Technical Competitions
+- 🌍 Open Source & Technology Community
+
+Our goal is to **learn, build, secure, and innovate** through practical
+technology projects.
 
 ---
 
 ## 🎯 Our Mission
 
-> **Build. Secure. Innovate.**
+> **Build technology. Secure technology. Innovate for the future.**
 
-Our mission is to develop practical technology solutions by combining cybersecurity, AI/ML, software engineering, and teamwork.
+We believe in combining different technical skills to create practical
+solutions for real-world problems.
 
 ---
 
-## 👥 Our Team
-
-We are a multidisciplinary team with different technical specializations working together to build innovative solutions.
+# 👥 Our Team
 
 <table>
 <tr>
 
-<td align="center">
-<img src="https://github.com/ShibashishSahoo.png?size=150" width="120px" alt="Shibashish Sahoo"/>
+<td align="center" width="20%">
+
+<img src="./assets/team/shibashish.jpeg" width="130" height="130" style="border-radius:50%;">
+
+### Shibashish Sahoo
+
+**Cybersecurity**
+
+<a href="https://github.com/ShibashishSahoo">
+GitHub
+</a>
+
 <br>
-<b>Shibashish Sahoo</b>
-<br>
-🔐 Cybersecurity
-<br>
-<a href="https://github.com/ShibashishSahoo">GitHub</a>
-  <br>
-  <a href="https://www.linkedin.com/in/shibashishsahoo">LinkedIn</a>
+
+<!-- Add Shibashish's LinkedIn URL here -->
+
 </td>
 
-<td align="center">
-<img src="https://www.linkedin.com/in/nilambar-nayak-0a56a3309.png?size=150" width="120px" alt="Nilamber Nayak"/>
+<td align="center" width="20%">
+
+<img src="./assets/team/nilambar.jpeg" width="130" height="130" style="border-radius:50%;">
+
+### Nilamber Nayak
+
+**AI / ML**
+
+<a href="https://github.com/nilambarnayak">
+GitHub
+</a>
+
 <br>
-<b>Nilamber Nayak</b>
-<br>
-🤖 AI / ML
-<br>
-<a href="https://github.com/nilambarnayak">GitHub</a>
-  <br>
-  <a href="https://www.linkedin.com/in/nilambar-nayak-0a56a3309">LinkedIn</a>
+
+<!-- Add Nilamber's LinkedIn URL here -->
+
 </td>
 
-<td align="center">
-<img src="https://github.com/saumyakant24.png?size=150" width="120px" alt="Saumyakanta"/>
+<td align="center" width="20%">
+
+<img src="./assets/team/rajat.jpg" width="130" height="130" style="border-radius:50%;">
+
+### Rajat
+
+**Backend Development**
+
+<!-- Add Rajat's GitHub URL here -->
+
 <br>
-<b>Saumyakanta</b>
-<br>
-💻 Frontend Development
-<br>
-<a href="https://github.com/saumyakant24">GitHub</a>
+
+<!-- Add Rajat's LinkedIn URL here -->
+
 </td>
 
-</tr>
+<td align="center" width="20%">
 
-<tr>
+<img src="./assets/team/saumyakanta.jpeg" width="130" height="130" style="border-radius:50%;">
 
-<td align="center">
-<img src="https://github.com/RAJAT_USERNAME.png?size=150" width="120px" alt="Rajat"/>
+### Saumyakanta
+
+**Frontend Development**
+
+<a href="https://github.com/saumyakant24">
+GitHub
+</a>
+
 <br>
-<b>Rajat</b>
-<br>
-⚙️ Backend Development
-<br>
-<a href="https://github.com/RAJAT_USERNAME">GitHub</a>
+
+<!-- Add Saumyakanta's LinkedIn URL here -->
+
 </td>
 
-<td align="center">
-<img src="https://github.com/SNEHA_USERNAME.png?size=150" width="120px" alt="Sneha"/>
+<td align="center" width="20%">
+
+<img src="./assets/team/sneha.jpeg" width="130" height="130" style="border-radius:50%;">
+
+### Sneha
+
+**Frontend Development**
+
+<!-- Add Sneha's GitHub URL here -->
+
 <br>
-<b>Sneha</b>
-<br>
-🎨 Frontend Development
-<br>
-<a href="https://github.com/SNEHA_USERNAME">GitHub</a>
+
+<!-- Add Sneha's LinkedIn URL here -->
+
 </td>
 
 </tr>
@@ -98,110 +136,94 @@ We are a multidisciplinary team with different technical specializations working
 
 ---
 
-## 🛠️ Technologies
+# 💻 Technology Stack
 
-### Programming Languages
-- 🐍 Python
-- ☕ Java
-- 🟨 JavaScript
+### 🔐 Cybersecurity
 
-### Development
-- ⚛️ React
-- ⚡ FastAPI
-- 🌐 REST APIs
-- 📱 Android Development
-- 🗄️ Database Technologies
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Networking-1E88E5?style=for-the-badge">
+<img src="https://img.shields.io/badge/Security-111111?style=for-the-badge&logo=hackthebox&logoColor=white">
+</p>
 
-### Cybersecurity & Systems
-- 🔐 Cybersecurity
-- 🐧 Linux
-- 🌐 Networking
-- 🛡️ Security Testing
-- 🔎 Threat Analysis
+### 🤖 AI / ML
 
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Android Studio
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-8E44AD?style=for-the-badge">
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</p>
+
+### ⚙️ Backend & Development
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
 ---
 
-## 📂 Projects
+# 📂 Projects
 
-Our projects are focused on cybersecurity, AI/ML, software development, and practical technology solutions.
+Our projects focus on practical technology and real-world problem solving.
 
 ### 🔐 Cybersecurity Projects
-Security-focused projects for learning, experimentation, and real-world problem solving.
+
+- Vulnerability & Port Scanning
+- Network Security Monitoring
+- Phishing Detection
+- URL & Domain Analysis
+- Cybersecurity Learning Labs
 
 ### 🤖 AI / ML Projects
-Artificial intelligence and machine learning solutions developed for practical applications.
 
-### 💻 Software Projects
-Web, backend, and application development projects.
+- AI-powered detection systems
+- Machine Learning classification
+- Intelligent threat analysis
+- Data-driven security solutions
 
-### 🏆 Hackathon Projects
-Projects developed for hackathons, innovation challenges, and technology competitions.
+### 🌐 Software Projects
 
-> 🚧 More projects will be added as they are completed.
+- Web applications
+- REST APIs
+- Security-focused applications
+- Team-based software projects
 
----
-
-## 🏆 Hackathons & Innovation
-
-CyberNex_Tech actively participates in:
-
-- 🏆 Hackathons
-- 💡 Innovation Challenges
-- 🎓 Student Technology Competitions
-- 🔐 Cybersecurity Challenges
-- 🤖 AI/ML Projects
-- 🌍 Open-Source Development
+> 🚧 More projects will be added as they are completed and documented.
 
 ---
 
-## 🤝 Team Philosophy
+# 🏆 Hackathons & Innovation
 
-We believe in:
+CyberNex_Tech actively participates in technical competitions, hackathons,
+and innovation-focused events.
 
-- 🔐 **Security First**
-- 💡 **Innovation**
-- 🤝 **Teamwork**
-- 📚 **Continuous Learning**
-- 🛠️ **Practical Development**
-- 🌍 **Open Source**
-- 🚀 **Building for the Future**
+### Areas of Interest
 
----
-
-## 📫 Connect With Us
-
-### GitHub
-
-🌐 **Team GitHub:**  
-https://github.com/cybernextech
-
-### Team Members
-
-- 👤 **Shibashish Sahoo** — https://github.com/ShibashishSahoo
-- 👤 **Nilamber Nayak** — https://github.com/nilambarnayak
+- 🛡️ Cybersecurity
+- 🤖 Artificial Intelligence
+- 🌐 Web Technologies
+- 📱 Application Development
+- 🔎 Digital Forensics
+- 🚨 Threat Detection
+- 💡 Emerging Technologies
 
 ---
 
-## 📧 Contact
+# 🧠 Team Philosophy
 
-📩 **Email:** cybernex.tech.2026@gmail.com
-
-For collaborations, projects, hackathons, and technology discussions, feel free to connect with us.
-
----
-
-## 🛡️ CyberNex_Tech
-
-**Defend • Detect • Evolve**
-
-> Building Secure & Intelligent Solutions 🔐🤖
-
----
-
-⭐ Follow our journey as we learn, build, compete, and innovate.
+```text
+Learn → Build → Test → Secure → Improve → Innovate
