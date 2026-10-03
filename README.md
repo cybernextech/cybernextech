@@ -2,9 +2,9 @@
 
 ### Defend • Detect • Evolve
 
-Welcome to **CyberNex_Tech** — a student technology team focused on
-cybersecurity, artificial intelligence, software development, and
-innovative technology solutions.
+Welcome to **CyberNex_Tech** — a technology team focused on building **secure, intelligent, and practical solutions**.
+
+We combine **Cybersecurity, Artificial Intelligence, Machine Learning, and Software Development** to solve real-world problems and participate in hackathons, innovation challenges, and open-source projects.
 
 ---
 
@@ -13,11 +13,10 @@ innovative technology solutions.
 - 🔐 Cybersecurity
 - 🤖 Artificial Intelligence & Machine Learning
 - 💻 Software Development
-- 🌐 Web Development
-- ⚙️ Backend Development
+- 🌐 Web & Backend Development
 - 📱 Application Development
-- 🏆 Hackathons & Competitions
-- 🔬 Research & Innovation
+- 🏆 Hackathons & Innovation
+- 🌍 Open Source
 
 ---
 
@@ -25,177 +24,181 @@ innovative technology solutions.
 
 > **Build. Secure. Innovate.**
 
-We combine cybersecurity, AI/ML, and software engineering to turn
-ideas into practical technology solutions.
+Our mission is to develop practical technology solutions by combining cybersecurity, AI/ML, software engineering, and teamwork.
 
-Our goal is to continuously learn, build real-world projects, participate
-in hackathons, and develop secure and intelligent solutions.
+---
+
+## 👥 Our Team
+
+We are a multidisciplinary team with different technical specializations working together to build innovative solutions.
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://github.com/ShibashishSahoo.png?size=150" width="120px" alt="Shibashish Sahoo"/>
+<br>
+<b>Shibashish Sahoo</b>
+<br>
+🔐 Cybersecurity
+<br>
+<a href="https://github.com/ShibashishSahoo">GitHub</a>
+</td>
+
+<td align="center">
+<img src="https://github.com/nilambarnayak.png?size=150" width="120px" alt="Nilamber Nayak"/>
+<br>
+<b>Nilamber Nayak</b>
+<br>
+🤖 AI / ML
+<br>
+<a href="https://github.com/nilambarnayak">GitHub</a>
+</td>
+
+<td align="center">
+<img src="https://github.com/saumyakant24.png?size=150" width="120px" alt="Saumyakanta"/>
+<br>
+<b>Saumyakanta</b>
+<br>
+💻 Frontend Development
+<br>
+<a href="https://github.com/saumyakant24">GitHub</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://github.com/RAJAT_USERNAME.png?size=150" width="120px" alt="Rajat"/>
+<br>
+<b>Rajat</b>
+<br>
+⚙️ Backend Development
+<br>
+<a href="https://github.com/RAJAT_USERNAME">GitHub</a>
+</td>
+
+<td align="center">
+<img src="https://github.com/SNEHA_USERNAME.png?size=150" width="120px" alt="Sneha"/>
+<br>
+<b>Sneha</b>
+<br>
+🎨 Frontend Development
+<br>
+<a href="https://github.com/SNEHA_USERNAME">GitHub</a>
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Technologies
 
-### Programming & Development
+### Programming Languages
+- 🐍 Python
+- ☕ Java
+- 🟨 JavaScript
 
-`Python` `Java` `JavaScript` `HTML` `CSS`
+### Development
+- ⚛️ React
+- ⚡ FastAPI
+- 🌐 REST APIs
+- 📱 Android Development
+- 🗄️ Database Technologies
 
-### Web & Backend
-
-`React` `FastAPI` `REST APIs`
-
-### AI & Machine Learning
-
-`Artificial Intelligence` `Machine Learning` `NLP`
-
-### Cybersecurity & Networking
-
-`Cybersecurity` `Linux` `Networking` `Threat Detection`
+### Cybersecurity & Systems
+- 🔐 Cybersecurity
+- 🐧 Linux
+- 🌐 Networking
+- 🛡️ Security Testing
+- 🔎 Threat Analysis
 
 ### Tools & Platforms
-
-`Git` `GitHub` `VS Code` `Android Studio`
-
----
-
-# 👥 Our Team
-
-We are a multidisciplinary team with different technical
-specializations working together to build innovative solutions.
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/ShibashishSahoo.png?size=150"
-           width="120px;"
-           alt="Shibashish Sahoo"/>
-      <br />
-      <b>Shibashish Sahoo</b>
-      <br />
-      🔐 Cybersecurity
-      <br /><br />
-      <a href="https://github.com/ShibashishSahoo">
-        GitHub
-      </a>
-    </td>
-
-    <td align="center">
-      <img src="https://github.com/nilambarnayak.png?size=150"
-           width="120px;"
-           alt="Nilambar Nayak"/>
-      <br />
-      <b>Nilambar Nayak</b>
-      <br />
-      🤖 AI / ML
-      <br /><br />
-      <a href="https://github.com/nilambarnayak">
-        GitHub
-      </a>
-    </td>
-
-    <td align="center">
-      <img src="https://github.com/saumyakant24.png?size=150"
-           width="120px;"
-           alt="Saumyakanta"/>
-      <br />
-      <b>Saumyakanta</b>
-      <br />
-      💻 Frontend Development
-      <br /><br />
-      <a href="https://github.com/saumyakant24">
-        GitHub
-      </a>
-    </td>
-  </tr>
-</table>
-
-### 👨‍💻 Other Team Members
-
-| Member | Role |
-|---|---|
-| **Rajat** | ⚙️ Backend Development |
-| **Sneha** | 🎨 Frontend Development |
-
-> GitHub profiles for Rajat and Sneha will be added when their
-> GitHub usernames are available.
+- Git
+- GitHub
+- VS Code
+- Android Studio
 
 ---
 
-# 🧩 Team Expertise
+## 📂 Projects
 
-| Area | Focus |
-|---|---|
-| 🔐 Cybersecurity | Threat Detection, Phishing, Network Security |
-| 🤖 AI/ML | Machine Learning, NLP, Intelligent Systems |
-| 🎨 Frontend | HTML, CSS, JavaScript, React |
-| ⚙️ Backend | Python, FastAPI, REST APIs |
-| 📱 Applications | Android & Application Development |
-| 🌐 Networking | Linux, TCP/IP, Network Security |
-| 🏆 Hackathons | Problem Solving & Rapid Prototyping |
+Our projects are focused on cybersecurity, AI/ML, software development, and practical technology solutions.
 
----
+### 🔐 Cybersecurity Projects
+Security-focused projects for learning, experimentation, and real-world problem solving.
 
-# 🏆 Hackathons & Innovation
+### 🤖 AI / ML Projects
+Artificial intelligence and machine learning solutions developed for practical applications.
 
-CyberNex_Tech actively participates in technology competitions,
-hackathons, and innovation-focused events.
+### 💻 Software Projects
+Web, backend, and application development projects.
 
-We focus on:
+### 🏆 Hackathon Projects
+Projects developed for hackathons, innovation challenges, and technology competitions.
 
-- 💡 Problem identification
-- 🧠 Solution design
-- 🛠️ Prototype development
-- 🔐 Security
-- 🤖 AI/ML integration
-- 🚀 Practical implementation
+> 🚧 More projects will be added as they are completed.
 
 ---
 
-# 📂 Projects
+## 🏆 Hackathons & Innovation
 
-Our projects are being developed and organized.
+CyberNex_Tech actively participates in:
 
-> 🚧 **Projects will be added here as they are completed and
-> prepared for public release.**
+- 🏆 Hackathons
+- 💡 Innovation Challenges
+- 🎓 Student Technology Competitions
+- 🔐 Cybersecurity Challenges
+- 🤖 AI/ML Projects
+- 🌍 Open-Source Development
 
 ---
 
-# 🌐 Connect With Us
+## 🤝 Team Philosophy
+
+We believe in:
+
+- 🔐 **Security First**
+- 💡 **Innovation**
+- 🤝 **Teamwork**
+- 📚 **Continuous Learning**
+- 🛠️ **Practical Development**
+- 🌍 **Open Source**
+- 🚀 **Building for the Future**
+
+---
+
+## 📫 Connect With Us
 
 ### GitHub
 
-🔗 **Team GitHub:**  
+🌐 **Team GitHub:**  
 https://github.com/cybernextech
-
-### Team Email
-
-📧 **Email:**  
-cybernex.tech.2026@gmail.com
 
 ### Team Members
 
-🔗 **Shibashish Sahoo:**  
-https://github.com/ShibashishSahoo
-
-🔗 **Nilambar Nayak:**  
-https://github.com/nilambarnayak
-
-🔗 **Saumyakanta:**  
-https://github.com/saumyakant24
+- 👤 **Shibashish Sahoo** — https://github.com/ShibashishSahoo
+- 👤 **Nilamber Nayak** — https://github.com/nilambarnayak
+- 👤 **Saumyakanta** — https://github.com/saumyakant24
 
 ---
 
-# 📈 Our Vision
+## 📧 Contact
 
-We aim to build a strong technical community where students can
-learn, collaborate, experiment, and create solutions for real-world
-problems.
+📩 **Email:** cybernex.tech.2026@gmail.com
 
-### Learn → Build → Secure → Innovate
+For collaborations, projects, hackathons, and technology discussions, feel free to connect with us.
 
 ---
 
 ## 🛡️ CyberNex_Tech
 
-### **Defend • Detect • Evolve**
+**Defend • Detect • Evolve**
 
-**Building Secure & Intelligent Solutions.**
+> Building Secure & Intelligent Solutions 🔐🤖
+
+---
+
+⭐ Follow our journey as we learn, build, compete, and innovate.
