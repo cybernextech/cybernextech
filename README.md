@@ -45,9 +45,9 @@ A multidisciplinary team working across:
 
 ## 📫 Connect With Us
 
-🌐 GitHub: https://github.com/cybernextech
+🌐 **GitHub:** https://github.com/cybernextech
 
-📧 Email: cybernextech2026@gmail.com
+📧 **Email:** cybernextech2026@gmail.com
 
 ---
 
