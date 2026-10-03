@@ -51,7 +51,7 @@ solutions for real-world problems.
 
 ### Shibashish Sahoo
 
-**Cybersecurity**
+**Cybersecurity Engineer**
 
 <a href="https://github.com/ShibashishSahoo">
 GitHub
@@ -59,7 +59,25 @@ GitHub
 
 <br>
 
-<!-- Add Shibashish's LinkedIn URL here -->
+<a href="https://www.linkedin.com/in/shibashishsahoo">LinkedIn</a>
+
+</td>
+
+<td align="center" width="20%">
+
+<img src="./assets/team/rajat.jpg" width="130" height="130" style="border-radius:50%;">
+
+### Rajat Kumar Bhoi
+
+**Backend Developer**
+
+<a href="https://github.com/rajat8249">
+GitHub
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/rajat-kumar-bhoi-6142183a4?">LinkedIn</a>
 
 </td>
 
@@ -69,7 +87,7 @@ GitHub
 
 ### Nilamber Nayak
 
-**AI / ML**
+**AI / ML Developer**
 
 <a href="https://github.com/nilambarnayak">
 GitHub
@@ -77,33 +95,18 @@ GitHub
 
 <br>
 
-<!-- Add Nilamber's LinkedIn URL here -->
+<a href="https://www.linkedin.com/in/nilambar-nayak-0a56a3309">LinkedIn</a>
 
 </td>
 
-<td align="center" width="20%">
-
-<img src="./assets/team/rajat.jpg" width="130" height="130" style="border-radius:50%;">
-
-### Rajat
-
-**Backend Development**
-
-<!-- Add Rajat's GitHub URL here -->
-
-<br>
-
-<!-- Add Rajat's LinkedIn URL here -->
-
-</td>
 
 <td align="center" width="20%">
 
 <img src="./assets/team/saumyakanta.jpeg" width="130" height="130" style="border-radius:50%;">
 
-### Saumyakanta
+### Saumyakant Swain
 
-**Frontend Development**
+**Frontend Developer**
 
 <a href="https://github.com/saumyakant24">
 GitHub
@@ -111,7 +114,7 @@ GitHub
 
 <br>
 
-<!-- Add Saumyakanta's LinkedIn URL here -->
+<a href="https://www.linkedin.com/in/saumya-kant-64539b400">LinkedIn</a>
 
 </td>
 
@@ -119,15 +122,15 @@ GitHub
 
 <img src="./assets/team/sneha.jpeg" width="130" height="130" style="border-radius:50%;">
 
-### Sneha
+### Sneha Das Adhikari
 
-**Frontend Development**
+**Frontend Developer**
 
 <!-- Add Sneha's GitHub URL here -->
 
 <br>
 
-<!-- Add Sneha's LinkedIn URL here -->
+<a href="https://www.linkedin.com/in/sneha-das-adhikari-461097386">LinkedIn</a>
 
 </td>
 
