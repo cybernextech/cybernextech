@@ -43,16 +43,20 @@ We are a multidisciplinary team with different technical specializations working
 🔐 Cybersecurity
 <br>
 <a href="https://github.com/ShibashishSahoo">GitHub</a>
+  <br>
+  <a href="https://www.linkedin.com/in/shibashishsahoo">LinkedIn</a>
 </td>
 
 <td align="center">
-<img src="https://github.com/nilambarnayak.png?size=150" width="120px" alt="Nilamber Nayak"/>
+<img src="https://www.linkedin.com/in/nilambar-nayak-0a56a3309.png?size=150" width="120px" alt="Nilamber Nayak"/>
 <br>
 <b>Nilamber Nayak</b>
 <br>
 🤖 AI / ML
 <br>
 <a href="https://github.com/nilambarnayak">GitHub</a>
+  <br>
+  <a href="https://www.linkedin.com/in/nilambar-nayak-0a56a3309">LinkedIn</a>
 </td>
 
 <td align="center">
@@ -181,7 +185,6 @@ https://github.com/cybernextech
 
 - 👤 **Shibashish Sahoo** — https://github.com/ShibashishSahoo
 - 👤 **Nilamber Nayak** — https://github.com/nilambarnayak
-- 👤 **Saumyakanta** — https://github.com/saumyakant24
 
 ---
 
